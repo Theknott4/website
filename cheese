@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creator Hub</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#blog">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="home">
+            <h1>Welcome to Creator Hub</h1>
+            <p>Your one-stop platform for interdisciplinary collaboration and entrepreneurship in higher education.</p>
+        </section>
+        
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Insert your 'About' content here.</p>
+        </section>
+        
+        <section id="features">
+            <h2>Features</h2>
+            <p>Insert your 'Features' content here.</p>
+        </section>
+        
+        <section id="events">
+            <h2>Upcoming Events</h2>
+            <p>Insert your 'Events' content here.</p>
+        </section>
+        
+        <section id="blog">
+            <h2>Latest Blog Posts</h2>
+            <p>Insert your 'Blog' content here.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Creator Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
